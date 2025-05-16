@@ -1,0 +1,14 @@
+//
+//  AppleScriptNowPlayingInfoReader.h
+//  EncoreCore
+//
+//  Created by Alexandra Göttlicher
+//
+
+#import "./NowPlayingInfoReaderProtocol.h"
+
+@interface AppleScriptNowPlayingInfoReader : NSObject <NowPlayingInfoReaderProtocol> {
+    NSString* _Nonnull _payloadFilePath;
+    NSDictionary* _Nullable _nowPlayingInfo;
+}
+@end
