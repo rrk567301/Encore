@@ -1,0 +1,412 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "MENU_BAR_ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informationen zu %1$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About %1$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos d’%1$@"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iwwer %1$@"
+          }
+        }
+      }
+    },
+    "MENU_BAR_NOT_PLAYING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Wiedergabe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Playing"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À l’arrêt"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spillt net"
+          }
+        }
+      }
+    },
+    "MENU_BAR_NOW_PLAYING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt läuft"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now Playing"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À l’écoute"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spillt elo"
+          }
+        }
+      }
+    },
+    "MENU_BAR_OPEN_NOW_PLAYING_APPLICATION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ öffnen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open %1$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir %1$@"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ opmaachen"
+          }
+        }
+      }
+    },
+    "MENU_BAR_PAUSED" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausiert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paused"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En pause"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pauséiert"
+          }
+        }
+      }
+    },
+    "MENU_BAR_PREFERENCES" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences…"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages…"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Astellungen…"
+          }
+        }
+      }
+    },
+    "MENU_BAR_QUIT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ beenden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quit %1$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitter %1$@"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ zoumaachen"
+          }
+        }
+      }
+    },
+    "PREFERENCES_ACTION_OPEN_LOGS_FOLDER" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open logs folder"
+          }
+        }
+      }
+    },
+    "PREFERENCES_OPTION_CACHING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caching"
+          }
+        }
+      }
+    },
+    "PREFERENCES_OPTION_LAUNCH_AT_LOGIN" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launch at login"
+          }
+        }
+      }
+    },
+    "PREFERENCES_OPTION_LOGGING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logging"
+          }
+        }
+      }
+    },
+    "PREFERENCES_OPTION_LOGGING_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs never leave your device unless you choose to share them with us in a bug report."
+          }
+        }
+      }
+    },
+    "PREFERENCES_SECTION_GENERAL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General:"
+          }
+        }
+      }
+    },
+    "PREFERENCES_SECTION_MISCELLANEOUS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miscellaneous:"
+          }
+        }
+      }
+    },
+    "PREFERENCES_TEXT_COPYRIGHT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© Copyright"
+          }
+        }
+      }
+    },
+    "PREFERENCES_TEXT_LISTENING_TO" : {
+      "comment" : "Exactly what Discord displays (if available in your language).",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hört %1$@ zu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listening to %1$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écoute %1$@"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Héiert %1$@"
+          }
+        }
+      }
+    },
+    "PREFERENCES_TEXT_MAINTAINER" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alexandra Göttlicher"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "PREFERENCES_TEXT_PREFERENCES" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
+          }
+        },
+        "lb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Astellungen"
+          }
+        }
+      }
+    },
+    "PREFERENCES_TEXT_PREVIEW_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is a live preview of what your Rich Presence looks like with %1$@. First you have to tell %1$@ which apps to watch out for, though!"
+          }
+        }
+      }
+    },
+    "PREFERENCES_TEXT_WELCOME" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willkommen zu %1$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to %1$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenue à %1$@"
+          }
+        }
+      }
+    },
+    "PREFERENCES_VERSION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
